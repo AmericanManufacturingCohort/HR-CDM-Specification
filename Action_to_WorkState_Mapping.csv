@@ -1,0 +1,841 @@
+action,actioncd,reasoncd,empstats,Elig,work_state
+,,,,0,
+,,,,1,
+,,,0,0,
+,,,0,1,
+,,,O,0,
+,HRLY POS R,,O,0,
+Active Assignment,,,,0,Work
+Active Assignment,,,,1,Work
+Active Probation,,,,0,LOA
+Active Probation,,,,1,LOA
+Audit Change Only,IN RANGE I,,A,0,Work
+Audit Change Only,IN RANGE I,,A,1,Work
+Audit Change Only,IN RANGE I,,O,0,Work
+Audit Change Only,POSITION C,,A,0,Work
+Audit Change Only,POSITION C,,A,1,Work
+Audit Change Only,POSITION E,,A,1,Work
+Audit Change??,FULL PART,,A,0,Work
+Audit Change??,HIRE OR RE,,A,0,Work
+Audit Change??,IN RANGE I,,A,0,Work
+Audit Change??,IN RANGE I,,A,1,Work
+Audit Change??,POSITION C,,A,0,Work
+Audit Review,FULL PART,,A,0,Work
+Audit Review,HIRE OR RE,,A,0,Work
+Audit Review,HIRE OR RE,,A,1,Work
+Audit Review,HIRE OR RE,,O,0,Work
+Audit Review,IN RANGE I,,A,0,Work
+Audit Review,IN RANGE I,,A,1,Work
+Audit Review,IN RANGE I,,O,0,Work
+Audit Review,IN RANGE I,,O,1,Work
+Audit Review,LEAVE LAYO,,A,0,Terminate
+Audit Review,POSITION C,,A,0,Work
+Audit Review,POSITION C,,A,1,Work
+Audit Review,POSITION C,,O,0,Work
+Audit Review,POSITION E,,A,0,Work
+Audit Review,POSITION E,,A,1,Work
+Audit Review,SALARY ADJ,,A,0,Work
+Audit Review,SALARY ADJ,,A,1,Work
+Audit Review,SALARY DEC,,A,0,Work
+Audit Review,SALARY DEC,,A,1,Work
+Audit Review,SPECIAL AD,,A,0,Work
+Audit Review,SPECIAL AD,,A,1,Work
+BU Name,,,D,0,Work
+BU Name,,,D,1,Work
+BU Name,,,O,0,Work
+BU Name,,,T,0,Work
+BU Name,,,T,1,Work
+BU Name,CONTRACT C,,A,0,Work
+BU Name,CONTRACT C,,A,1,Work
+BU Name,CONTRACT C,,O,0,Work
+BU Name,HIRE OR RE,,A,0,Work
+BU Name,HRLY POS R,,A,0,Work
+BU Name,HRLY POS R,,A,1,Work
+BU Name,HRLY POS R,,O,0,Work
+BU Name,HRLY POS R,,O,1,Work
+BU Name,IN RANGE I,,A,0,Work
+BU Name,IN RANGE I,,A,1,Work
+BU Name,IN RANGE I,,O,0,Work
+BU Name,IN RANGE I,,T,0,Work
+BU Name,LEAVE LAYO,,T,0,Terminate
+BU Name,POSITION C,,A,0,Work
+BU Name,POSITION C,,A,1,Work
+BU Name,POSITION C,,O,0,Work
+Business Unit,,,A,0,Work
+Business Unit,,,D,0,Work
+Business Unit,,,D,1,Work
+Business Unit,,,O,0,Work
+Business Unit,,,T,0,Work
+Business Unit,,,T,1,Work
+Business Unit,CONTRACT C,,A,0,Work
+Business Unit,CONTRACT C,,A,1,Work
+Business Unit,CONTRACT C,,O,0,Work
+Business Unit,HIRE OR RE,,A,0,Work
+Business Unit,HRLY POS R,,A,0,Work
+Business Unit,HRLY POS R,,A,1,Work
+Business Unit,HRLY POS R,,O,0,Work
+Business Unit,HRLY POS R,,O,1,Work
+Business Unit,IN RANGE I,,A,0,Work
+Business Unit,IN RANGE I,,A,1,Work
+Business Unit,IN RANGE I,,O,0,Work
+Business Unit,LEAVE LAYO,,A,0,Terminate
+Business Unit,LEAVE LAYO,,A,1,Terminate
+Business Unit,POSITION C,,A,0,Work
+Business Unit,POSITION C,,A,1,Work
+Business Unit,POSITION C,,O,0,Work
+Business Unit,POSITION E,,A,0,Work
+Business Unit,SALARY ADJ,,A,0,Work
+Business Unit,SALARY ADJ,,A,1,Work
+Business Unit,SALARY DEC,,A,1,Work
+Completion of Probation,Compl Prob,Prob Comp,A,0,Work
+Completion of Probation,Compl Prob,Prob Comp,A,1,Work
+Contract Change,CONTRACT C,,A,0,Work
+Contract Change,CONTRACT C,,A,1,Work
+Contract Change,CONTRACT C,,O,0,Work
+Contract Change,CONTRACT C,,O,1,Work
+Data Change,Data Chg,Address Ch,A,0,Work
+Data Change,Data Chg,Address Ch,A,1,Work
+Data Change,Data Chg,Address Ch,D,0,Work
+Data Change,Data Chg,Address Ch,L,0,Work
+Data Change,Data Chg,Address Ch,L,1,Work
+Data Change,Data Chg,Address Ch,R,0,Work
+Data Change,Data Chg,Address Ch,R,1,Work
+Data Change,Data Chg,Address Ch,S,0,Work
+Data Change,Data Chg,Address Ch,S,1,Work
+Data Change,Data Chg,Address Ch,T,0,Work
+Data Change,Data Chg,Address Ch,T,1,Work
+Data Change,Data Chg,Corrct-Dep,A,0,Work
+Data Change,Data Chg,Corrct-Dep,A,1,Work
+Data Change,Data Chg,Corrct-Dep,L,0,Work
+Data Change,Data Chg,Corrct-Dep,L,1,Work
+Data Change,Data Chg,Corrct-Dep,R,0,Work
+Data Change,Data Chg,Corrct-Dep,S,0,Work
+Data Change,Data Chg,Corrct-Dep,S,1,Work
+Data Change,Data Chg,Corrct-Dep,T,0,Work
+Data Change,Data Chg,Corrct-Job,A,0,Work
+Data Change,Data Chg,Corrct-Job,A,1,Work
+Data Change,Data Chg,Corrct-Job,L,0,Work
+Data Change,Data Chg,Corrct-Job,L,1,Work
+Data Change,Data Chg,Corrct-Job,S,0,Work
+Data Change,Data Chg,Corrct-Job,T,0,Work
+Data Change,Data Chg,Corrct-Pay,A,0,Work
+Data Change,Data Chg,Corrct-Pay,A,1,Work
+Data Change,Data Chg,Corrct-Pay,L,0,Work
+Data Change,Data Chg,Corrct-Pay,L,1,Work
+Data Change,Data Chg,Data Whse,A,0,Work
+Data Change,Data Chg,Data Whse,A,1,Work
+Data Change,Data Chg,Data Whse,L,0,Work
+Data Change,Data Chg,Data Whse,L,1,Work
+Data Change,Data Chg,Data Whse,R,0,Work
+Data Change,Data Chg,Data Whse,R,1,Work
+Data Change,Data Chg,Data Whse,S,0,Work
+Data Change,Data Chg,Data Whse,S,1,Work
+Data Change,Data Chg,Data Whse,T,0,Work
+Data Change,Data Chg,Data Whse,T,1,Work
+Data Change,Data Chg,Dept Chnge,A,0,Work
+Data Change,Data Chg,Dept Chnge,A,1,Work
+Data Change,Data Chg,Dept Chnge,L,0,Work
+Data Change,Data Chg,Dept Chnge,L,1,Work
+Data Change,Data Chg,Dept Chnge,R,0,Work
+Data Change,Data Chg,Dept Chnge,R,1,Work
+Data Change,Data Chg,Dept Chnge,S,0,Work
+Data Change,Data Chg,Dept Chnge,S,1,Work
+Data Change,Data Chg,Dept Chnge,T,0,Work
+Data Change,Data Chg,Dept Chnge,T,1,Work
+Data Change,Data Chg,Ntc LOF NW,A,0,Work
+Data Change,Data Chg,Ntc LOF NW,A,1,Work
+Data Change,Data Chg,Other,A,0,Work
+Data Change,Data Chg,Other,A,1,Work
+Data Change,Data Chg,Other,L,0,Work
+Data Change,Data Chg,Other,L,1,Work
+Data Change,Data Chg,Other,R,0,Work
+Data Change,Data Chg,Other,R,1,Work
+Data Change,Data Chg,Other,S,0,Work
+Data Change,Data Chg,Other,T,0,Work
+Data Change,Data Chg,Other,T,1,Work
+Data Change,Data Chg,Status Chg,A,0,Work
+Data Change,Data Chg,Status Chg,A,1,Work
+Data Change,Data Chg,Status Chg,L,0,Work
+Data Change,Data Chg,Status Chg,L,1,Work
+Data Change,Data Chg,Status Chg,R,0,Work
+Data Change,Data Chg,Status Chg,S,0,Work
+Data Change,Data Chg,Status Chg,T,0,Work
+Demotion,Demotion,Dem Invol,A,0,Work
+Demotion,Demotion,Dem Invol,A,1,Work
+Demotion,Demotion,Dem Invol,L,0,Work
+Demotion,Demotion,Dem Invol,L,1,Work
+Demotion,Demotion,Dem Volunt,A,0,Work
+Demotion,Demotion,Dem Volunt,A,1,Work
+Demotion,Demotion,Dem Volunt,L,0,Work
+Demotion,Demotion,Dem Volunt,L,1,Work
+Demotion-Involuntary,HRLY POS R,,A,0,Work
+Demotion-Involuntary,POSITION C,,A,0,Work
+Demotion-Involuntary,POSITION C,,A,1,Work
+Demotion-Voluntary,FULL PART,,A,0,Work
+Demotion-Voluntary,HRLY POS R,,A,0,Work
+Demotion-Voluntary,HRLY POS R,,A,1,Work
+Demotion-Voluntary,POSITION C,,A,0,Work
+Demotion-Voluntary,POSITION C,,A,1,Work
+Disqualified,POSITION C,,A,0,Work
+Disqualified,POSITION C,,A,1,Work
+Earnings Distribution Change,Erns Distn,Split Earn,A,0,Work
+Earnings Distribution Change,Erns Distn,Split Earn,A,1,Work
+Earnings Distribution Change,Erns Distn,Split Earn,L,0,Work
+Earnings Distribution Change,Erns Distn,Split Earn,S,0,Work
+Expire Comp,,,A,0,LOA
+Full Part Time,FULL PART,,A,0,Work
+Hire,,,A,0,Work
+Hire,,,A,1,Work
+Hire,CONTRACT C,,A,0,Work
+Hire,CONVERSION,,A,0,Work
+Hire,CONVERSION,,A,1,Work
+Hire,Hire,Conversion,A,0,Work
+Hire,Hire,Conversion,A,1,Work
+Hire,Hire,,A,0,Work
+Hire,Hire,,A,1,Work
+Hire,Hire,,L,0,Work
+Hire,Hire,Hire Affil,A,0,Work
+Hire,Hire,Hire Affil,A,1,Work
+Hire,HIRE OR RE,,,0,Work
+Hire,HIRE OR RE,,A,0,Work
+Hire,HIRE OR RE,,A,1,Work
+Hire,HRLY POS R,,A,0,Work
+Hire,IN RANGE I,,A,0,Work
+Hire,LEAVE LAYO,,A,0,Terminate
+Hire,LEAVE LAYO,,A,1,Terminate
+Hire,Hire,New Hire,A,0,Work
+Hire,Hire,New Hire,A,1,Work
+Hire,POSITION C,,A,0,Work
+Hire,POSITION C,,A,1,Work
+Hire,Hire,Rehire,A,0,Work
+Hire,Hire,Rehire,A,1,Work
+Hire,SALARY ADJ,,A,0,Work
+Hire Or Rehire,HIRE OR RE,,A,0,Work
+Hire Or Rehire,HIRE OR RE,,A,1,Work
+Hrly Pos Reeval,HRLY POS R,,A,0,Work
+Hrly Pos Reeval,HRLY POS R,,A,1,Work
+Hrly Pos Reeval,HRLY POS R,,O,0,Work
+Hrly Pos Reeval,HRLY POS R,,O,1,Work
+In Range Incr,IN RANGE I,,A,0,Work
+In Range Incr,IN RANGE I,,A,1,Work
+In Range Incr,IN RANGE I,,O,0,Work
+In Range Incr,IN RANGE I,,O,1,Work
+Job Category,,,D,0,Work
+Job Category,,,T,0,Work
+Job Category,,,T,1,Work
+Job Category,CONTRACT C,,A,1,Work
+Job Category,CONTRACT C,,O,0,Work
+Job Category,HRLY POS R,,A,0,Work
+Job Category,HRLY POS R,,A,1,Work
+Job Category,HRLY POS R,,O,0,Work
+Job Category,HRLY POS R,,O,1,Work
+Job Category,IN RANGE I,,A,0,Work
+Job Category,IN RANGE I,,A,1,Work
+Job Category,POSITION C,,A,0,Work
+Job Change,Job  Chg,14 Day Cls,A,0,Work
+Job Change,Job  Chg,14 Day Cls,A,1,Work
+Job Change,Job  Chg,Competitiv,A,0,Work
+Job Change,Job  Chg,Competitiv,A,1,Work
+Job Change,Job  Chg,Competitiv,L,0,Work
+Job Change,Job  Chg,Competitiv,L,1,Work
+Job Change,Job  Chg,Competitiv,R,0,Work
+Job Change,Job  Chg,Competitiv,R,1,Work
+Job Change,Job  Chg,Disqualifd,A,0,Work
+Job Change,Job  Chg,Disqualifd,A,1,Work
+Job Change,Job  Chg,Disqualifd,L,0,Work
+Job Change,Job  Chg,Ee Request,A,0,Work
+Job Change,Job  Chg,Ee Request,A,1,Work
+Job Change,Job  Chg,Ee Request,L,0,Work
+Job Change,Job  Chg,Ee Request,L,1,Work
+Job Change,Job  Chg,Ee Request,S,0,Work
+Job Change,Job  Chg,Ee Request,S,1,Work
+Job Change,Job  Chg,Ee Request,T,0,Work
+Job Change,Job  Chg,Ex Day,A,0,Work
+Job Change,Job  Chg,Ex Day,A,1,Work
+Job Change,Job  Chg,,A,0,Work
+Job Change,Job  Chg,Lateral,A,0,Work
+Job Change,Job  Chg,Lateral,A,1,Work
+Job Change,Job  Chg,Lateral,L,0,Work
+Job Change,Job  Chg,Lateral,L,1,Work
+Job Change,Job  Chg,LOF HomDep,A,0,Work
+Job Change,Job  Chg,LOF HomDep,A,1,Work
+Job Change,Job  Chg,LOF HomDep,L,0,Work
+Job Change,Job  Chg,LOF HomDep,L,1,Work
+Job Change,Job  Chg,LOF NonHom,A,0,Work
+Job Change,Job  Chg,LOF NonHom,A,1,Work
+Job Change,Job  Chg,LOF NonHom,L,0,Work
+Job Change,Job  Chg,LOF NonHom,S,0,Work
+Job Change,Job  Chg,Medical,A,0,Work
+Job Change,Job  Chg,Medical,A,1,Work
+Job Change,Job  Chg,Medical,L,0,Work
+Job Change,Job  Chg,Medical,L,1,Work
+Job Change,Job  Chg,Mgr Reqst,A,0,Work
+Job Change,Job  Chg,Mgr Reqst,A,1,Work
+Job Change,Job  Chg,Mgr Reqst,L,0,Work
+Job Change,Job  Chg,Not Posted,A,0,Work
+Job Change,Job  Chg,Not Posted,A,1,Work
+Job Change,Job  Chg,Posted on,A,0,Work
+Job Change,Job  Chg,Posted on,A,1,Work
+Job Change,Job  Chg,Posted on,L,0,Work
+Job Change,Job  Chg,Rcl NH Dpt,A,0,Work
+Job Change,Job  Chg,Rcl NH Dpt,L,0,Work
+Job Change,Job  Chg,Re-Class,A,0,Work
+Job Change,Job  Chg,Re-Class,A,1,Work
+Job Change,Job  Chg,Re-Class,L,0,Work
+Job Change,Job  Chg,Re-Class,L,1,Work
+Job Change,Job  Chg,Re-Class,S,0,Work
+Job Change,Job  Chg,Re-Org,A,0,Work
+Job Change,Job  Chg,Re-Org,A,1,Work
+Job Change,Job  Chg,Re-Org,L,0,Work
+Job Change,Job  Chg,Re-Org,L,1,Work
+Job Change,Job  Chg,Re-Org,P,0,Work
+Job Change,Job  Chg,Re-Org,P,1,Work
+Job Change,Job  Chg,Re-Org,R,0,Work
+Job Change,Job  Chg,Re-Org,R,1,Work
+Job Change,Job  Chg,Re-Org,S,0,Work
+Job Change,Job  Chg,Re-Org,T,0,Work
+Job Change,Job  Chg,Re-Org,T,1,Work
+Job Change,Job  Chg,Recall Hom,A,0,Work
+Job Change,Job  Chg,Recall Hom,A,1,Work
+Job Change,Job  Chg,Recall Hom,L,0,Work
+Job Change,Job  Chg,Recall Hom,L,1,Work
+Job Change,Job  Chg,Restoratn,A,0,Work
+Job Change,Job  Chg,Restoratn,A,1,Work
+Job Change,Job  Chg,Restoratn,L,0,Work
+Job Change,Job  Chg,Restoratn,S,0,Work
+Job Change,Job  Chg,Temp Loan,A,0,Work
+Job Change,Job  Chg,Temp Loan,A,1,Work
+Job Change,Job  Chg,Update,A,0,Work
+Job Change,Job  Chg,Update,A,1,Work
+Job Change,Job  Chg,Update,D,1,Work
+Job Change,Job  Chg,Update,L,0,Work
+Job Change,Job  Chg,Update,L,1,Work
+Job Change,Job  Chg,Update,R,0,Work
+Job Change,Job  Chg,Update,S,0,Work
+Job Change,Job  Chg,Update,T,0,Work
+Lateral,HRLY POS R,,A,0,Work
+Lateral,HRLY POS R,,A,1,Work
+Lateral,IN RANGE I,,A,0,Work
+Lateral,IN RANGE I,,A,1,Work
+Lateral,POSITION C,,A,0,Work
+Lateral,POSITION C,,A,1,Work
+Lateral,POSITION E,,A,0,Work
+Layoff,Layoff,0moH&WBen,S,0,Terminate
+Layoff,Layoff,1moH&WBen,S,0,Terminate
+Layoff,Layoff,1moH&WBen,S,1,Terminate
+Layoff,Layoff,1yrH&WBen,S,0,Terminate
+Layoff,Layoff,1yrH&WBen,S,1,Terminate
+Layoff,Layoff,2yrH&WBen,S,0,Terminate
+Layoff,Layoff,3moH&WBen,S,0,Terminate
+Layoff,Layoff,3moH&WBen,S,1,Terminate
+Layoff,Layoff,6moH&WBen,S,0,Terminate
+Layoff,Layoff,6moH&WBen,S,1,Terminate
+Layoff - Disciplinary,CONTRACT C,,O,0,Work
+Layoff - Disciplinary,HIRE OR RE,,O,0,Work
+Layoff - Disciplinary,HRLY POS R,,O,0,Work
+Layoff - Disciplinary,HRLY POS R,,O,1,Work
+Layoff - Disciplinary,IN RANGE I,,O,0,Work
+Layoff - Disciplinary,IN RANGE I,,O,1,Work
+Layoff - Disciplinary,POSITION C,,O,0,Work
+Layoff - Disciplinary,POSITION C,,O,1,Work
+Layoff,Layoff,Dpt Shtdwn,S,0,Terminate
+Layoff - Hourly: Benefits Expi,POSITION C,,O,0,Work
+Layoff,Layoff,Hr Ben Exp,S,0,Terminate
+Layoff,Layoff,Hr Ben Exp,S,1,Terminate
+Layoff,Layoff,Plant Shut,S,0,Terminate
+Layoff,Layoff,Plant Shut,S,1,Terminate
+Layoff,Layoff,PlntShut00,S,0,Terminate
+Layoff,Layoff,PlntShut03,S,0,Terminate
+Layoff,Layoff,PlntShut24,S,0,Terminate
+Layoff,Layoff,PlntShut24,S,1,Terminate
+Layoff - Separation,,,O,0,Terminate
+Layoff,Layoff,Separation,S,0,Terminate
+Layoff,Layoff,Separation,S,1,Terminate
+Layoff - Separation,FULL PART,,O,0,Work
+Layoff - Separation,IN RANGE I,,O,0,Work
+Layoff - Separation,IN RANGE I,,O,1,Work
+Layoff - Separation,POSITION C,,O,0,Work
+Layoff - Separation,SPECIAL AD,,O,0,Work
+Layoff,Layoff,Spcial ISP,S,0,Terminate
+Layoff,Layoff,Temp Regul,S,0,Terminate
+Layoff,Layoff,Temp Regul,S,1,Terminate
+Layoff - Temporary/Regular,CONTRACT C,,O,0,Work
+Layoff - Temporary/Regular,HIRE OR RE,,O,0,Work
+Layoff - Temporary/Regular,HRLY POS R,,O,0,Work
+Layoff - Temporary/Regular,HRLY POS R,,O,1,Work
+Layoff - Temporary/Regular,IN RANGE I,,O,0,Work
+Layoff - Temporary/Regular,LEAVE LAYO,,O,0,Terminate
+Layoff - Temporary/Regular,POSITION C,,O,0,Work
+Layoff - Temporary/Regular,POSITION C,,O,1,Work
+Layoff,Layoff,XRRetBridg,S,0,Terminate
+Layoff,Layoff,XRRetBridg,S,1,Terminate
+Layoff,Layoff,XRSalSev,S,0,Terminate
+Layoff,Layoff,XRSalSev,S,1,Terminate
+Layoff Benefit Expired,,,,0,Terminate
+Layoff Benefit Expired,,,,1,Terminate
+Layoff Department Shut Down,,,,0,Terminate
+Layoff Department Shut Down,,,,1,Terminate
+Layoff No SBE,,,,0,Terminate
+Layoff No SBE,,,,1,Terminate
+Layoff Plant Shut Down no SBE,,,,0,Terminate
+Layoff Plant Shut Down no SBE,,,,1,Terminate
+Layoff Plant Shut Down SBE,,,,0,Terminate
+Layoff Plant Shut Down SBE,,,,1,Terminate
+Layoff Plant Shut Down Union Only Use SBE,,,,0,Terminate
+Layoff Plant Shut Down Union Only Use SBE,,,,1,Terminate
+Layoff SBE,,,,0,Terminate
+Layoff SBE,,,,1,Terminate
+Layoff Separation,,,,0,Terminate
+Layoff Separation,,,,1,Terminate
+Layoff Special ISP,,,,0,Terminate
+Layoff Union Use Only SBE,,,,0,Terminate
+Layoff Union Use Only SBE,,,,1,Terminate
+Leave - Disability,CONTRACT C,,O,0,Work
+Leave - Disability,CONTRACT C,,O,1,Work
+Leave - Disability,CONVERSION,,O,0,Work
+Leave - Disability,FULL PART,,O,0,Work
+Leave - Disability,HIRE OR RE,,O,0,Work
+Leave - Disability,HIRE OR RE,,O,1,Work
+Leave - Disability,HRLY POS R,,O,0,Work
+Leave - Disability,HRLY POS R,,O,1,Work
+Leave - Disability,IN RANGE I,,O,0,Work
+Leave - Disability,IN RANGE I,,O,1,Work
+Leave - Disability,LEAVE LAYO,,O,0,Terminate
+Leave - Disability,POSITION C,,O,0,Work
+Leave - Disability,POSITION C,,O,1,Work
+Leave - Disability,POSITION E,,O,0,Work
+Leave - Disability,POSITION E,,O,1,Work
+Leave - Disability,SALARY ADJ,,O,0,Work
+Leave - Disability,SPECIAL AD,,O,0,Work
+Leave - Educational,HRLY POS R,,O,0,Work
+Leave - Educational,IN RANGE I,,O,0,Work
+Leave - Family (FMLA),FULL PART,,O,0,Work
+Leave - Family (FMLA),HRLY POS R,,O,0,Work
+Leave - Family (FMLA),HRLY POS R,,O,1,Work
+Leave - Family (FMLA),IN RANGE I,,O,0,Work
+Leave - Family (FMLA),IN RANGE I,,O,1,Work
+Leave - Family (FMLA),POSITION C,,O,0,Work
+Leave - Family (FMLA),POSITION E,,O,0,Work
+Leave - Family (FMLA),SALARY ADJ,,O,0,Work
+Leave - Military,HIRE OR RE,,O,0,Work
+Leave - Military,HRLY POS R,,O,0,Work
+Leave - Military,HRLY POS R,,O,1,Work
+Leave - Military,IN RANGE I,,O,0,Work
+Leave - Military,POSITION C,,O,0,Work
+Leave - Personal/Unpaid,,,O,1,LOA
+Leave - Personal/Unpaid,CONTRACT C,,O,0,Work
+Leave - Personal/Unpaid,HIRE OR RE,,O,0,Work
+Leave - Personal/Unpaid,HRLY POS R,,O,0,Work
+Leave - Personal/Unpaid,HRLY POS R,,O,1,Work
+Leave - Personal/Unpaid,IN RANGE I,,O,0,Work
+Leave - Personal/Unpaid,IN RANGE I,,O,1,Work
+Leave - Personal/Unpaid,POSITION C,,O,0,Work
+Leave - Personal/Unpaid,SALARY ADJ,,O,0,Work
+Leave - Union,HRLY POS R,,O,0,Work
+Leave - Union,HRLY POS R,,O,1,Work
+Leave - Union,LEAVE LAYO,,O,0,Terminate
+Leave - Union,POSITION C,,O,0,Work
+Leave - Workers Comp,CONTRACT C,,O,0,Work
+Leave - Workers Comp,CONTRACT C,,O,1,Work
+Leave - Workers Comp,HRLY POS R,,O,0,Work
+Leave - Workers Comp,HRLY POS R,,O,1,Work
+Leave - Workers Comp,IN RANGE I,,O,0,Work
+Leave - Workers Comp,IN RANGE I,,O,1,Work
+Leave - Workers Comp,POSITION C,,O,0,Work
+Leave - Workers Comp,POSITION C,,O,1,Work
+Leave Layoff,LEAVE LAYO,,A,0,Terminate
+Leave Layoff,LEAVE LAYO,,O,0,Terminate
+Leave of Absence,LOA,Benft Cont,L,0,LOA
+Leave of Absence,LOA,Education,L,0,LOA
+,,,6,0,LOA
+,,,6,1,LOA
+Leave of Absence,LOA,FMLA,L,0,FMLA
+Leave of Absence,LOA,FMLA,L,1,FMLA
+Leave of Absence,LOA,,L,0,LOA
+Leave of Absence,LOA,Military,L,0,LOA
+Leave of Absence,LOA,Military,L,1,LOA
+Leave of Absence,LOA,Prsnl Unpd,L,0,LOA
+Leave of Absence,LOA,Prsnl Unpd,L,1,LOA
+Leave of Absence,LOA,Strike/Loc,L,0,LOA
+Leave of Absence,LOA,Strike/Loc,L,1,LOA
+Leave of Absence,LOA,Union,L,0,LOA
+Leave of Absence,LOA,Union,L,1,LOA
+Leave of Absence,LOA,Union BA,L,0,LOA
+Leave of Absence,LOA,Union BA,L,1,LOA
+Leave of Absence,LOA,Union Ofcr,L,0,LOA
+Leave of Absence,LOA,Wrkrs Comp,L,0,LOA
+Leave of Absence,LOA,Wrkrs Comp,L,1,LOA
+Leave of Absence FMLA,,,,0,FMLA
+Leave of Absence FMLA,,,,1,FMLA
+Leave of Absence Legacy,,,,0,LOA
+Leave of Absence Legacy,,,,1,LOA
+Leave of Absence LTD,,,,0,LTD
+Leave of Absence LTD,,,,1,LTD
+Leave of Absence Military,,,,0,LOA
+Leave of Absence Military,,,,1,LOA
+Leave of Absence STD,,,,0,STD
+Leave of Absence STD,,,,1,STD
+Leave of Absence Union,,,,0,LOA
+Leave of Absence Union,,,,1,LOA
+Leave of Absence Union Business Agent,,,,0,LOA
+Leave of Absence Union Business Agent,,,,1,LOA
+Leave of Absence Unpaid,,,,0,LOA
+Leave of Absence Unpaid,,,,1,LOA
+Leave of Absence Worker's Compensation,,,,0,LOA
+Leave of Absence Worker's Compensation,,,,1,LOA
+,,,3,0,LTD
+,,,3,1,LTD
+Long Term Disability,LTD,Leg Ax Dis,L,0,LOA
+Long Term Disability,LTD,Leg Ax Dis,L,1,LOA
+Long Term Disability,LTD,LTD,L,0,LOA
+Long Term Disability,LTD,LTD,L,1,LOA
+Long Term Disability,LTD,XRHHDisPln,L,0,LOA
+Long Term Disability,LTD,XRHHDisPln,L,1,LOA
+Medical,POSITION C,,A,0,Work
+Medical,POSITION C,,A,1,Work
+New Position,,,A,0,Work
+New Position,,,T,0,Work
+New Position,HIRE OR RE,,A,0,Work
+New Position,HIRE OR RE,,A,1,Work
+New Position,HRLY POS R,,A,0,Work
+New Position,HRLY POS R,,A,1,Work
+New Position,HRLY POS R,,O,0,Work
+New Position,HRLY POS R,,O,1,Work
+New Position,LEAVE LAYO,,A,0,Terminate
+New Position,LEAVE LAYO,,A,1,Terminate
+New Position,POSITION C,,A,0,Work
+New Position,POSITION C,,A,1,Work
+New Position,POSITION C,,O,0,Work
+New Position,POSITION C,,O,1,Work
+New Status,,,D,0,Work
+New Status,,,D,1,Work
+New Status,,,T,0,Work
+New Status,,,T,1,Work
+New Status,CONTRACT C,,A,0,Work
+New Status,CONTRACT C,,A,1,Work
+New Status,CONTRACT C,,I,0,Work
+New Status,CONVERSION,,A,0,Work
+New Status,FULL PART,,A,0,Work
+New Status,FULL PART,,O,0,Work
+New Status,HIRE OR RE,,A,0,Work
+New Status,HIRE OR RE,,A,1,Work
+New Status,HIRE OR RE,,O,0,Work
+New Status,HIRE OR RE,,T,0,Work
+New Status,HIRE OR RE,,T,1,Work
+New Status,HRLY POS R,,A,0,Work
+New Status,HRLY POS R,,A,1,Work
+New Status,HRLY POS R,,D,0,Work
+New Status,HRLY POS R,,D,1,Work
+New Status,HRLY POS R,,O,0,Work
+New Status,HRLY POS R,,O,1,Work
+New Status,HRLY POS R,,T,0,Work
+New Status,IN RANGE I,,A,0,Work
+New Status,IN RANGE I,,A,1,Work
+New Status,IN RANGE I,,O,0,Work
+New Status,IN RANGE I,,T,0,Work
+New Status,LEAVE LAYO,,A,0,Terminate
+New Status,POSITION C,,A,0,Work
+New Status,POSITION C,,A,1,Work
+New Status,POSITION C,,D,0,Work
+New Status,POSITION C,,O,0,Work
+New Status,POSITION C,,T,0,Work
+New Status,POSITION C,,T,1,Work
+New Status,POSITION E,,A,0,Work
+New Status,POSITION E,,A,1,Work
+New Status,POSITION E,,T,0,Work
+New Status,SALARY ADJ,,A,0,Work
+New Status,SALARY ADJ,,T,0,Work
+New Status,SPECIAL AD,,A,0,Work
+New Status,SPECIAL AD,,T,0,Work
+Paid Leave,,,,0,LOA
+Paid Leave Military,,,,0,LOA
+Paid Leave of Absence,Paid LOA,Military,P,0,LOA
+Paid Leave of Absence,Paid LOA,Paid Leave,P,0,LOA
+Paid Leave of Absence,Paid LOA,Paid Leave,P,1,LOA
+Pay Change,,,A,0,Work
+Pay Rate Change,Pay Rt Chg,Cntrct Chg,A,0,Work
+Pay Rate Change,Pay Rt Chg,Cntrct Chg,A,1,Work
+Pay Rate Change,Pay Rt Chg,Cntrct Chg,L,0,Work
+Pay Rate Change,Pay Rt Chg,Cntrct Chg,L,1,Work
+Pay Rate Change,Pay Rt Chg,Cntrct Chg,P,0,Work
+Pay Rate Change,Pay Rt Chg,Cntrct Chg,S,0,Work
+Pay Rate Change,Pay Rt Chg,Cntrct Chg,S,1,Work
+Pay Rate Change,Pay Rt Chg,COLA,A,0,Work
+Pay Rate Change,Pay Rt Chg,COLA,A,1,Work
+Pay Rate Change,Pay Rt Chg,COLA,L,0,Work
+Pay Rate Change,Pay Rt Chg,COLA,L,1,Work
+Pay Rate Change,Pay Rt Chg,Complink,A,0,Work
+Pay Rate Change,Pay Rt Chg,Complink,A,1,Work
+Pay Rate Change,Pay Rt Chg,Complink,L,0,Work
+Pay Rate Change,Pay Rt Chg,Merit,A,0,Work
+Pay Rate Change,Pay Rt Chg,Merit,A,1,Work
+Pay Rate Change,Pay Rt Chg,Merit,L,0,Work
+Pay Rate Change,Pay Rt Chg,Merit,L,1,Work
+Pay Rate Change,Pay Rt Chg,Other,A,0,Work
+Pay Rate Change,Pay Rt Chg,Other,A,1,Work
+Pay Rate Change,Pay Rt Chg,Other,L,0,Work
+Pay Rate Change,Pay Rt Chg,Other,L,1,Work
+Pay Rate Change,Pay Rt Chg,Other,P,0,Work
+Pay Rate Change,Pay Rt Chg,Other,P,1,Work
+Pay Rate Change,Pay Rt Chg,Other,S,0,Work
+Pay Rate Change,Pay Rt Chg,Specl Adju,A,0,Work
+Pay Rate Change,Pay Rt Chg,Specl Adju,A,1,Work
+Pay Rate Change,Pay Rt Chg,Specl Adju,L,0,Work
+Pay Rate Change,Pay Rt Chg,Specl Adju,L,1,Work
+Pay Rate Change,Pay Rt Chg,Specl Adju,S,0,Work
+Pay Rate Change,Pay Rt Chg,Step Prog,A,0,Work
+Pay Rate Change,Pay Rt Chg,Step Prog,A,1,Work
+Pay Rate Change,Pay Rt Chg,Step Prog,L,0,Work
+Pay Rate Change,Pay Rt Chg,Step Prog,L,1,Work
+Pay Rate Change,Pay Rt Chg,Step Prog,S,0,Work
+Performance,,,T,0,Work
+Performance,FULL PART,,A,0,Work
+Performance,HIRE OR RE,,A,0,Work
+Performance,HIRE OR RE,,A,1,Work
+Performance,HIRE OR RE,,O,0,Work
+Performance,HRLY POS R,,A,0,Work
+Performance,HRLY POS R,,A,1,Work
+Performance,IN RANGE I,,A,0,Work
+Performance,IN RANGE I,,A,1,Work
+Performance,IN RANGE I,,O,0,Work
+Performance,LEAVE LAYO,,A,0,Terminate
+Performance,LEAVE LAYO,,O,0,Terminate
+Performance,POSITION C,,A,0,Work
+Performance,POSITION C,,A,1,Work
+Performance,POSITION C,,O,0,Work
+Performance,POSITION E,,A,0,Work
+Performance,POSITION E,,A,1,Work
+Performance,SALARY ADJ,,A,0,Work
+Performance,SALARY ADJ,,A,1,Work
+Performance,SALARY DEC,,A,0,Work
+Performance,SALARY DEC,,A,1,Work
+Performance,SPECIAL AD,,A,0,Work
+Position Change,POSITION C,,A,0,Work
+Position Change,POSITION C,,A,1,Work
+Position Change,POSITION C,,O,0,Work
+Position Change,POSITION C,,O,1,Work
+Position Discontinued,POSITION C,,A,0,Work
+Position Discontinued,POSITION C,,A,1,Work
+Position Eval,POSITION E,,A,0,Work
+Position Eval,POSITION E,,A,1,Work
+Position Eval,POSITION E,,O,0,Work
+Position Eval,POSITION E,,O,1,Work
+Position Eval,POSITION E,,T,0,Work
+Position Name,,,A,0,Work
+Position Name,,,D,0,Work
+Position Name,,,D,1,Work
+Position Name,,,O,0,Work
+Position Name,,,O,1,Work
+Position Name,,,T,0,Work
+Position Name,,,T,1,Work
+Position Name,CONTRACT C,,A,0,Work
+Position Name,CONTRACT C,,A,1,Work
+Position Name,CONVERSION,,A,0,Work
+Position Name,CONVERSION,,T,0,Work
+Position Name,HIRE OR RE,,A,0,Work
+Position Name,HIRE OR RE,,A,1,Work
+Position Name,HRLY POS R,,A,0,Work
+Position Name,HRLY POS R,,A,1,Work
+Position Name,HRLY POS R,,O,0,Work
+Position Name,HRLY POS R,,O,1,Work
+Position Name,IN RANGE I,,A,0,Work
+Position Name,IN RANGE I,,A,1,Work
+Position Name,IN RANGE I,,O,0,Work
+Position Name,IN RANGE I,,O,1,Work
+Position Name,LEAVE LAYO,,A,0,Terminate
+Position Name,LEAVE LAYO,,O,0,Terminate
+Position Name,POSITION C,,A,0,Work
+Position Name,POSITION C,,A,1,Work
+Position Name,POSITION C,,O,0,Work
+Position Name,POSITION C,,O,1,Work
+Position Name,POSITION C,,T,0,Work
+Position Name,POSITION E,,A,0,Work
+Position Name,POSITION E,,A,1,Work
+Position Name,SALARY ADJ,,A,0,Work
+Position Reclassification,HRLY POS R,,A,0,Work
+Position Reclassification,HRLY POS R,,A,1,Work
+Position Reclassification,IN RANGE I,,A,0,Work
+Position Reclassification,POSITION C,,A,0,Work
+Position Reclassification,POSITION C,,A,1,Work
+Position Reclassification,POSITION E,,A,0,Work
+Probation,Probation,On Probatn,A,0,LOA
+Probation,Probation,On Probatn,A,1,LOA
+Probation,Probation,On Probatn,T,0,LOA
+Promotion,Promotion,Competitiv,A,0,Work
+Promotion,Promotion,Competitiv,A,1,Work
+Promotion,Promotion,Competitiv,L,0,Work
+Promotion,Promotion,Competitiv,L,1,Work
+Promotion,Promotion,Job Progre,A,0,Work
+Promotion,Promotion,Job Progre,A,1,Work
+Promotion,Promotion,Job Progre,L,0,Work
+Promotion,Promotion,Job Progre,L,1,Work
+Promotion,Promotion,Not Posted,A,0,Work
+Promotion,Promotion,Not Posted,A,1,Work
+Promotion,Promotion,Posted on,A,0,Work
+Promotion,Promotion,Posted on,A,1,Work
+Promotion,Promotion,Posted on,L,0,Work
+Promotion-Involuntary,HRLY POS R,,A,0,Work
+Promotion-Involuntary,HRLY POS R,,A,1,Work
+Promotion-Involuntary,POSITION C,,A,0,Work
+Promotion-Involuntary,POSITION C,,A,1,Work
+Promotion-Voluntary,,,A,0,Work
+Promotion-Voluntary,FULL PART,,A,0,Work
+Promotion-Voluntary,HIRE OR RE,,A,0,Work
+Promotion-Voluntary,HRLY POS R,,A,0,Work
+Promotion-Voluntary,HRLY POS R,,A,1,Work
+Promotion-Voluntary,IN RANGE I,,A,0,Work
+Promotion-Voluntary,IN RANGE I,,A,1,Work
+Promotion-Voluntary,POSITION C,,A,0,Work
+Promotion-Voluntary,POSITION C,,A,1,Work
+Promotion-Voluntary,POSITION E,,A,0,Work
+Promotion-Voluntary,POSITION E,,A,1,Work
+Promotion-Voluntary,SPECIAL AD,,A,0,Work
+Recall from Suspension/Layoff,Recall,Recall,A,0,Work
+Recall from Suspension/Layoff,Recall,Recall,A,1,Work
+Rehire,Rehire,Rehire,A,0,Work
+Rehire,Rehire,Rehire,A,1,Work
+Reorganization,HIRE OR RE,,A,0,Work
+Reorganization,IN RANGE I,,A,0,Work
+Reorganization,POSITION C,,A,0,Work
+Reorganization,POSITION C,,A,1,Work
+Restoration of Job Class,POSITION C,,A,0,Work
+Restoration of Job Class,POSITION C,,A,1,Work
+,,,7,0,Retire
+,,,7,1,Retire
+Retirement,Retirement,Retirement,R,0,Retire
+Retirement,Retirement,Retirement,R,1,Retire
+Retirement With Pay,Ret w/Pay,Ret w/Pay,Q,0,Retire
+Retirement With Pay,Ret w/Pay,Ret w/Pay,Q,1,Retire
+Return From Disability,Return-DIS,Return-DIS,A,0,Work
+Return From Disability,Return-DIS,Return-DIS,A,1,Work
+Return from Leave,Return-LOA,Retrn Lv,A,0,Work
+Return from Leave,Return-LOA,Retrn Lv,A,1,Work
+Salary Adj,SALARY ADJ,,A,0,Work
+Salary Adj,SALARY ADJ,,A,1,Work
+Salary Adj,SALARY ADJ,,O,0,Work
+Salary Decrease,SALARY DEC,,A,0,Work
+Salary Decrease,SALARY DEC,,A,1,Work
+,,,2,0,STD
+,,,2,1,STD
+Short Term Disability,STD,Leg Ax Dis,L,0,STD
+Short Term Disability,STD,Leg Ax Dis,L,1,STD
+Short Term Disability,STD,,L,0,STD
+Short Term Disability,STD,STD,A,1,STD
+Short Term Disability,STD,STD,L,0,STD
+Short Term Disability,STD,STD,L,1,STD
+Short Term Disability,STD,XRHHDisPln,L,0,STD
+Short Term Disability,STD,XRHHDisPln,L,1,STD
+Special Adjust,SPECIAL AD,,A,0,Work
+Special Adjust,SPECIAL AD,,A,1,Work
+Start Comp,HIRE OR RE,,A,0,Work
+Start Comp,HRLY POS R,,A,0,Work
+Start Comp,HRLY POS R,,A,1,Work
+Suspended Disciplinary,,,,0,LOA
+Suspended Disciplinary,,,,1,LOA
+Suspension,Suspension,Discipline,S,0,LOA
+Suspension,Suspension,Discipline,S,1,LOA
+Terminated,,,,0,Terminate
+Terminated,,,,1,Terminate
+Termination,Terminatn,1moH&WBen,T,0,Terminate
+Termination,Terminatn,1yrH&WBen,T,0,Terminate
+Termination,Terminatn,2yrH&WBen,T,0,Terminate
+Termination,Terminatn,3moH&WBen,T,0,Terminate
+Termination,Terminatn,6moH&WBen,T,0,Terminate
+Termination,Terminatn,Adm Un Con,T,0,Terminate
+Termination,Terminatn,Ben Expire,T,0,Terminate
+Termination,Terminatn,Co Dismiss,T,0,Terminate
+Termination,Terminatn,Death,D,0,Terminate
+Termination,Terminatn,Discharge,T,0,Terminate
+Termination,Terminatn,Dpt Shtdwn,T,0,Terminate
+Termination,Terminatn,1moH&WBen,T,1,Retire
+Termination,Terminatn,1yrH&WBen,T,1,Retire
+Termination,Terminatn,2yrH&WBen,T,1,Retire
+Termination,Terminatn,3moH&WBen,T,1,Retire
+Termination,Terminatn,6moH&WBen,T,1,Retire
+Termination,Terminatn,Adm Un Con,T,1,Retire
+Termination,Terminatn,Ben Expire,T,1,Retire
+Termination,Terminatn,Co Dismiss,T,1,Retire
+Termination,Terminatn,Death,D,1,Retire
+Termination,Terminatn,Discharge,T,1,Retire
+Termination,Terminatn,Dpt Shtdwn,T,1,Retire
+Termination,Terminatn,Elim Posn,T,1,Retire
+Termination,Terminatn,Fail Proba,T,1,Retire
+Termination,Terminatn,Leave,T,1,Retire
+Termination,Terminatn,Quit,T,1,Retire
+Termination,Terminatn,Retirement,T,1,Retire
+Termination,Terminatn,Sale of Co,T,1,Retire
+Termination,Terminatn,Severance,T,1,Retire
+Termination,Terminatn,Elim Posn,T,0,Terminate
+,,,4,0,Terminate
+,,,4,1,Terminate
+,,,5,0,Terminate
+,,,5,1,Terminate
+,,,8,0,Terminate
+,,,8,1,Terminate
+,,,9,0,Terminate
+,,,9,1,Terminate
+,,,T,0,Terminate
+Termination,Terminatn,Fail Proba,T,0,Terminate
+Termination,Terminatn,Leave,T,0,Terminate
+Termination,POSITION C,,A,0,Work
+Termination,Terminatn,Quit,T,0,Terminate
+Termination,Terminatn,Retirement,T,0,Retire
+Termination,Terminatn,Sale Busin,T,0,Terminate
+Termination,Terminatn,Sale of Co,T,0,Terminate
+Termination,Terminatn,Severance,T,0,Terminate
+Termination,Terminatn,Tran Affil,T,0,Terminate
+Transfer,Transfer,Competitiv,A,0,Work
+Transfer,Transfer,Competitiv,A,1,Work
+Transfer,Transfer,Competitiv,L,0,Work
+Transfer,Transfer,Ee Request,A,0,Work
+Transfer,Transfer,Ee Request,A,1,Work
+Transfer,Transfer,Ee Request,L,0,Work
+Transfer,Transfer,Mgr Reqst,A,0,Work
+Transfer,Transfer,Mgr Reqst,A,1,Work
+Transfer,Transfer,Mgr Reqst,L,0,Work
+Transfer,Transfer,Mgr Reqst,L,1,Work
+Transfer,Transfer,Not Posted,A,0,Work
+Transfer,Transfer,Posted on,A,0,Work
+Transfer,Transfer,Posted on,A,1,Work
+Transfer,Transfer,Promotion,A,0,Work
+Transfer,Transfer,Promotion,A,1,Work
+Transfer,Transfer,Reorg,A,0,Work
+Transfer,Transfer,Reorg,A,1,Work
+Transfer,Transfer,Reorg,L,0,Work
+Transfer,Transfer,Tran Affil,A,0,Work
+Transfer,Transfer,Tran Affil,A,1,Work
+Transferred,HIRE OR RE,,A,0,Work
+Transferred,HIRE OR RE,,A,1,Work
+Transferred,HRLY POS R,,A,0,Work
+Transferred,HRLY POS R,,A,1,Work
+Transferred,IN RANGE I,,A,0,Work
+Transferred,IN RANGE I,,A,1,Work
+Transferred,LEAVE LAYO,,A,0,Terminate
+Transferred,POSITION C,,A,0,Work
+Transferred,POSITION C,,A,1,Work
+Transferred,POSITION E,,A,0,Work
+Trn-Employee Request,POSITION C,,A,0,Work
+Trn-Employee Request,POSITION C,,A,1,Work
+Trn-Laid Off (Home Dept),POSITION C,,A,0,Work
+Trn-Laid Off (Home Dept),POSITION C,,A,1,Work
+Trn-Laid Off (Non-Home Dept),HIRE OR RE,,A,0,Work
+Trn-Laid Off (Non-Home Dept),POSITION C,,A,0,Work
+Trn-Laid Off (Non-Home Dept),POSITION C,,A,1,Work
+Trn-Recall Home,,,A,0,Work
+Trn-Recall Home,HIRE OR RE,,A,0,Work
+Trn-Recall Home,POSITION C,,A,0,Work
+Trn-Recall Home,POSITION C,,A,1,Work
+Trn-Temporary Loan,POSITION C,,A,0,Work
+Trn-Temporary Loan,POSITION C,,A,1,Work
+Trn-Temporary Loan,SALARY ADJ,,A,0,Work
+,,,A,0,Work
+,,,A,1,Work
+,CONTRACT C,,A,0,Work
+,HIRE OR RE,,A,0,Work
+,HRLY POS R,,A,0,Work
+,HRLY POS R,,A,1,Work
+,IN RANGE I,,A,0,Work
+,IN RANGE I,,A,1,Work
+,POSITION C,,A,0,Work
+,POSITION C,,A,1,Work
+,SPECIAL AD,,A,0,Work

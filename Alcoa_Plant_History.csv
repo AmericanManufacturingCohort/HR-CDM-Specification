@@ -1,0 +1,757 @@
+logbook_id,work_site_id,site_event_id,year_of_record,month_of_record,day_of_record,record_date,site_name,site_owner,site_type_concept_id,site_status_concept_id,site_type_source_value,site_status_source_value
+1,50096,,1996,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+2,50096,,1997,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+3,50096,,1998,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+4,50096,,1999,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+5,50096,,2000,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+6,50096,,2001,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+7,50096,,2002,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+8,50096,,2003,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+9,50096,,2004,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+10,50096,,2005,,,,AFL Automotive, ALCOA,,,Plant,Active
+11,50096,,2006,,,,AFL Automotive, ALCOA,,,Plant,Active
+12,50096,,2007,,,,AFL Automotive, ALCOA,,,Plant,Active
+13,50096,,2008,,,,AFL Automotive, ALCOA,,,Plant,Active
+14,50096,,2009,,,,AFL Automotive, ALCOA,,,Plant,Active
+15,50096,,2010,,,,AFL Automotive, ALCOA,,,Plant,Active
+16,50096,,2011,,,,AFL Automotive, ALCOA,,,Plant,Active
+17,50096,,2012,,,,AFL Automotive, ALCOA,,,Plant,Active
+18,50096,,2013,,,,AFL Automotive, ALCOA,,,Plant,Active
+19,50062,,1996,,,,Global Hard Alloy Extrusions, ALUMAX,,,Plant,Active
+20,50062,,1997,,,,Global Hard Alloy Extrusions, ALUMAX,,,Plant,Active
+21,50062,,1998,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+22,50062,,1999,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+23,50062,,2000,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+24,50062,,2001,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+25,50062,,2002,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+26,50062,,2003,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+27,50062,,2004,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+28,50062,,2005,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+29,50062,,2006,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+30,50062,,2007,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+31,50062,,2008,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+32,50062,,2009,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+33,50062,,2010,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+34,50062,,2011,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+35,50062,,2012,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+36,50062,,2013,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+37,50144,,1996,,,,Primary Metals, ALUMAX,,,Plant,Active
+38,50144,,1997,,,,Primary Metals, ALUMAX,,,Plant,Active
+39,50144,,1998,,,,Primary Metals, ALCOA,,,Plant,Active
+40,50144,,1999,,,,Primary Metals, ALCOA,,,Plant,Active
+41,50144,,2000,,,,Primary Metals, ALCOA,,,Plant,Active
+42,50144,,2001,,,,Primary Metals, ALCOA,,,Plant,Active
+43,50144,,2002,,,,Primary Metals, ALCOA,,,Plant,Active
+44,50144,,2003,,,,Primary Metals, ALCOA,,,Plant,Active
+45,50144,,2004,,,,Primary Metals, ALCOA,,,Plant,Active
+46,50144,,2005,,,,Primary Metals, ALCOA,,,Plant,Active
+47,50144,,2006,,,,Primary Metals, ALCOA,,,Plant,Active
+48,50144,,2007,,,,Primary Metals, ALCOA,,,Plant,Active
+49,50144,,2008,,,,Primary Metals, ALCOA,,,Plant,Active
+50,50144,,2009,,,,Primary Metals, ALCOA,,,Plant,Active
+51,50144,,2010,,,,Primary Metals, ALCOA,,,Plant,Active
+52,50144,,2011,,,,Primary Metals, ALCOA,,,Plant,Active
+53,50144,,2012,,,,Primary Metals, ALCOA,,,Plant,Active
+54,50144,,2013,,,,Primary Metals, ALCOA,,,Plant,Active
+55,50147,,1996,,,,Primary Metals, ALUMAX,,,Plant,Active
+56,50147,,1997,,,,Primary Metals, ALUMAX,,,Plant,Active
+57,50147,,1998,,,,Primary Metals, ALCOA,,,Plant,Active
+58,50147,,1999,,,,Primary Metals, ALCOA,,,Plant,Active
+59,50147,,2000,,,,Primary Metals, ALCOA,,,Plant,Active
+60,50147,,2001,,,,Primary Metals, ALCOA,,,Plant,Active
+61,50147,,2002,,,,Primary Metals, ALCOA,,,Plant,Active
+62,50147,,2003,,,,Primary Metals, ALCOA,,,Plant,Active
+63,50147,,2004,,,,Primary Metals, ALCOA,,,Plant,Active
+64,50147,,2005,,,,Primary Metals, ALCOA,,,Plant,Active
+65,50147,,2006,,,,Primary Metals, ALCOA,,,Plant,Active
+66,50147,,2007,,,,Primary Metals, ALCOA,,,Plant,Active
+67,50147,,2008,,,,Primary Metals, ALCOA,,,Plant,Active
+68,50147,,2009,,,,Primary Metals, ALCOA,,,Plant,Active
+69,50147,,2010,,,,Primary Metals, ALCOA,,,Plant,Active
+70,50147,,2011,,,,Primary Metals, ALCOA,,,Plant,Active
+71,50147,,2012,,,,Primary Metals, ALCOA,,,Plant,Active
+72,50147,,2013,,,,Primary Metals, ALCOA,,,Plant,Active
+73,50211,,1996,,,,North American Rolled Products, ALUMAX,,,Plant,Active
+74,50211,,1997,,,,North American Rolled Products, ALUMAX,,,Plant,Active
+75,50211,,1998,,,,North American Rolled Products, ALCOA,,,Plant,Active
+76,50211,,1999,,,,North American Rolled Products, ALCOA,,,Plant,Active
+77,50211,,2000,,,,North American Rolled Products, ALCOA,,,Plant,Active
+78,50211,,2001,,,,North American Rolled Products, ALCOA,,,Plant,Active
+79,50211,,2002,,,,North American Rolled Products, ALCOA,,,Plant,Active
+80,50211,,2003,,,,North American Rolled Products, ALCOA,,,Plant,Active
+81,50211,,2004,,,,North American Rolled Products, ALCOA,,,Plant,Active
+82,50211,,2005,,,,North American Rolled Products, ALCOA,,,Plant,Active
+83,50211,,2006,,,,North American Rolled Products, ALCOA,,,Plant,Active
+84,50211,,2007,,,,North American Rolled Products, ALCOA,,,Plant,Active
+85,50211,,2008,,,,North American Rolled Products, ALCOA,,,Plant,Active
+86,50211,,2009,,,,North American Rolled Products, ALCOA,,,Plant,Active
+87,50211,,2010,,,,North American Rolled Products, ALCOA,,,Plant,Active
+88,50211,,2011,,,,North American Rolled Products, ALCOA,,,Plant,Active
+89,50211,,2012,,,,North American Rolled Products, ALCOA,,,Plant,Active
+90,50211,,2013,,,,North American Rolled Products, ALCOA,,,Plant,Active
+91,50082,,1996,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+92,50082,,1997,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+93,50082,,1998,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+94,50082,,1999,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+95,50082,,2000,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+96,50082,,2001,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+97,50082,,2002,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+98,50082,,2003,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+99,50082,,2004,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+100,50082,,2005,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+101,50082,,2006,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+102,50082,,2007,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+103,50082,,2008,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+104,50082,,2009,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+105,50082,,2010,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+106,50082,,2011,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+107,50082,,2012,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+108,50082,,2013,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+109,50141,,1996,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+110,50141,,1997,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+111,50141,,1998,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+112,50141,,1999,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+113,50141,,2000,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+114,50141,,2001,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+115,50141,,2002,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+116,50141,,2003,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+117,50141,,2004,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+118,50141,,2005,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+119,50141,,2006,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+120,50141,,2007,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+121,50141,,2008,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+122,50141,,2009,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+123,50141,,2010,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+124,50141,,2011,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+125,50141,,2012,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+126,50141,,2013,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+127,50334,,1996,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+128,50334,,1997,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+129,50334,,1998,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+130,50334,,1999,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+131,50334,,2000,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+132,50334,,2001,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+133,50334,,2002,,,,Alcoa Fastening Systems,Fairchild ,,,Plant,Active
+134,50334,,2003,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+135,50334,,2004,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+136,50334,,2005,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+137,50334,,2006,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+138,50334,,2007,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+139,50334,,2008,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+140,50334,,2009,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+141,50334,,2010,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+142,50334,,2011,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+143,50334,,2012,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+144,50334,,2013,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+145,50101,,1996,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+146,50101,,1997,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+147,50101,,1998,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+148,50101,,1999,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+149,50101,,2000,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+150,50101,,2001,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+151,50101,,2002,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+152,50101,,2003,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+153,50101,,2004,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+154,50101,,2005,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+155,50101,,2006,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+156,50101,,2007,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+157,50101,,2008,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+158,50101,,2009,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+159,50101,,2010,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+160,50101,,2011,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+161,50101,,2012,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+162,50101,,2013,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+163,50176,,1996,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+164,50176,,1997,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+165,50176,,1998,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+166,50176,,1999,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+167,50176,,2000,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+168,50176,,2001,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+169,50176,,2002,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+170,50176,,2003,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+171,50176,,2004,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+172,50176,,2005,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+173,50176,,2006,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+174,50176,,2007,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+175,50176,,2008,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+176,50176,,2009,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+177,50176,,2010,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+178,50176,,2011,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+179,50176,,2012,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+180,50176,,2013,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+181,50253,,1996,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+182,50253,,1997,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+183,50253,,1998,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+184,50253,,1999,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+185,50253,,2000,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+186,50253,,2001,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+187,50253,,2002,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+188,50253,,2003,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+189,50253,,2004,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+190,50253,,2005,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+191,50253,,2006,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+192,50253,,2007,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+193,50253,,2008,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+194,50253,,2009,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+195,50253,,2010,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+196,50253,,2011,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+197,50253,,2012,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+198,50253,,2013,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+199,50421,,1996,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+200,50421,,1997,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+201,50421,,1998,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+202,50421,,1999,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+203,50421,,2000,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+204,50421,,2001,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+205,50421,,2002,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+206,50421,,2003,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+207,50421,,2004,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+208,50421,,2005,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+209,50421,,2006,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+210,50421,,2007,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+211,50421,,2008,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+212,50421,,2009,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+213,50421,,2010,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+214,50421,,2011,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+215,50421,,2012,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+216,50421,,2013,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+217,50425,,1996,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+218,50425,,1997,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+219,50425,,1998,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+220,50425,,1999,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+221,50425,,2000,,,,Alcoa Investment Cast and Forged Products,Howmet,,,Plant,Active
+222,50425,,2001,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+223,50425,,2002,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+224,50425,,2003,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+225,50425,,2004,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+226,50425,,2005,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+227,50425,,2006,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+228,50425,,2007,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+229,50425,,2008,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+230,50425,,2009,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+231,50425,,2010,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+232,50425,,2011,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+233,50425,,2012,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+234,50425,,2013,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+235,50205,,1996,,,,Howmet,Howmet,,,Plant,Active
+236,50205,,1997,,,,Howmet,Howmet,,,Plant,Active
+237,50205,,1998,,,,Howmet,Howmet,,,Plant,Active
+238,50205,,1999,,,,Howmet,Howmet,,,Plant,Active
+239,50205,,2000,,,,Howmet,Howmet,,,Plant,Active
+240,50205,,2001,,,,Howmet, ALCOA,,,Plant,Active
+241,50205,,2002,,,,Howmet, ALCOA,,,Plant,Active
+242,50205,,2003,,,,Howmet, ALCOA,,,Plant,Active
+243,50205,,2004,,,,Howmet, ALCOA,,,Plant,Active
+244,50205,,2005,,,,Howmet, ALCOA,,,Plant,Active
+245,50205,,2006,,,,Howmet, ALCOA,,,Plant,Active
+246,50205,,2007,,,,Howmet, ALCOA,,,Plant,Active
+247,50205,,2008,,,,Howmet, ALCOA,,,Plant,Active
+248,50205,,2009,,,,Howmet, ALCOA,,,Plant,Active
+249,50205,,2010,,,,Howmet, ALCOA,,,Plant,Active
+250,50205,,2011,,,,Howmet, ALCOA,,,Plant,Active
+251,50205,,2012,,,,Howmet, ALCOA,,,Plant,Active
+252,50205,,2013,,,,Howmet, ALCOA,,,Plant,Active
+253,50061,,1996,,,,Alcoa Fastening Systems,Huck,,,Plant,Active
+254,50061,,1997,,,,Alcoa Fastening Systems,Huck,,,Plant,Active
+255,50061,,1998,,,,Alcoa Fastening Systems,Huck,,,Plant,Active
+256,50061,,1999,,,,Alcoa Fastening Systems,Huck,,,Plant,Active
+257,50061,,2000,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+258,50061,,2001,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+259,50061,,2002,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+260,50061,,2003,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+261,50061,,2004,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+262,50061,,2005,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+263,50061,,2006,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+264,50061,,2007,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+265,50061,,2008,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+266,50061,,2009,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+267,50061,,2010,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+268,50061,,2011,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+269,50061,,2012,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+270,50061,,2013,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+271,50426,,1996,,,,Alcoa Fastening Systems,Huck,,,Plant,Active
+272,50426,,1997,,,,Alcoa Fastening Systems,Huck,,,Plant,Active
+273,50426,,1998,,,,Alcoa Fastening Systems,Huck,,,Plant,Active
+274,50426,,1999,,,,Alcoa Fastening Systems,Huck,,,Plant,Active
+275,50426,,2000,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+276,50426,,2001,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+277,50426,,2002,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+278,50426,,2003,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+279,50426,,2004,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+280,50426,,2005,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+281,50426,,2006,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+282,50426,,2007,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+283,50426,,2008,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+284,50426,,2009,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+285,50426,,2010,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+286,50426,,2011,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+287,50426,,2012,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+288,50426,,2013,,,,Alcoa Fastening Systems, ALCOA,,,Plant,Active
+289,50049,,1996,,,,Building and Construction Systems,Kawneer,,,Plant,Active
+290,50049,,1997,,,,Building and Construction Systems,Kawneer,,,Plant,Active
+291,50049,,1998,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+292,50049,,1999,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+293,50049,,2000,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+294,50049,,2001,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+295,50049,,2002,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+296,50049,,2003,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+297,50049,,2004,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+298,50049,,2005,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+299,50049,,2006,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+300,50049,,2007,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+301,50049,,2008,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+302,50049,,2009,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+303,50049,,2010,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+304,50049,,2011,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+305,50049,,2012,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+306,50049,,2013,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+307,50332,,1996,,,,Building and Construction Systems,Kawneer,,,Plant,Active
+308,50332,,1997,,,,Building and Construction Systems,Kawneer,,,Plant,Active
+309,50332,,1998,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+310,50332,,1999,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+311,50332,,2000,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+312,50332,,2001,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+313,50332,,2002,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+314,50332,,2003,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+315,50332,,2004,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+316,50332,,2005,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+317,50332,,2006,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+318,50332,,2007,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+319,50332,,2008,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+320,50332,,2009,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+321,50332,,2010,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+322,50332,,2011,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+323,50332,,2012,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+324,50332,,2013,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+325,50058,,1996,,,,Alcoa Wheel Products,Reynolds ,,,Plant,Active
+326,50058,,1997,,,,Alcoa Wheel Products,Reynolds ,,,Plant,Active
+327,50058,,1998,,,,Alcoa Wheel Products,Reynolds ,,,Plant,Active
+328,50058,,1999,,,,Alcoa Wheel Products,Reynolds ,,,Plant,Active
+329,50058,,2000,,,,Alcoa Wheel Products,Reynolds ,,,Plant,Active
+330,50058,,2001,,,,Alcoa Wheel Products, ALCOA,,,Plant,Active
+331,50058,,2002,,,,Alcoa Wheel Products, ALCOA,,,Plant,Active
+332,50058,,2003,,,,Alcoa Wheel Products, ALCOA,,,Plant,Active
+333,50058,,2004,,,,Alcoa Wheel Products, ALCOA,,,Plant,Active
+334,50058,,2005,,,,Alcoa Wheel Products, ALCOA,,,Plant,Active
+335,50058,,2006,,,,Alcoa Wheel Products, ALCOA,,,Plant,Active
+336,50058,,2007,,,,Alcoa Wheel Products, ALCOA,,,Plant,Active
+337,50058,,2008,,,,Alcoa Wheel Products, ALCOA,,,Plant,Active
+338,50058,,2009,,,,Alcoa Wheel Products, ALCOA,,,Plant,Active
+339,50058,,2010,,,,Alcoa Wheel Products,,,,Plant,Sold
+340,50058,,2011,,,,Alcoa Wheel Products,,,,Plant,Sold
+341,50058,,2012,,,,Alcoa Wheel Products,,,,Plant,Sold
+342,50058,,2013,,,,Alcoa Wheel Products,,,,Plant,Sold
+343,50012,,1996,,,,Primary Metals, ALCOA,,,Plant,Active
+344,50012,,1997,,,,Primary Metals, ALCOA,,,Plant,Active
+345,50012,,1998,,,,Primary Metals, ALCOA,,,Plant,Active
+346,50012,,1999,,,,Primary Metals, ALCOA,,,Plant,Active
+347,50012,,2000,,,,Primary Metals, ALCOA,,,Plant,Active
+348,50012,,2001,,,,Primary Metals, ALCOA,,,Plant,Active
+349,50012,,2002,,,,Primary Metals, ALCOA,,,Plant,Active
+350,50012,,2003,,,,Primary Metals, ALCOA,,,Plant,Active
+351,50012,,2004,,,,Primary Metals, ALCOA,,,Plant,Active
+352,50012,,2005,,,,Primary Metals, ALCOA,,,Plant,Active
+353,50012,,2006,,,,Primary Metals, ALCOA,,,Plant,Active
+354,50012,,2007,,,,Primary Metals, ALCOA,,,Plant,Active
+355,50012,,2008,,,,Primary Metals, ALCOA,,,Plant,Active
+356,50012,,2009,,,,Primary Metals, ALCOA,,,Plant,Active
+357,50012,,2010,,,,Primary Metals, ALCOA,,,Plant,Active
+358,50012,,2011,,,,Primary Metals, ALCOA,,,Plant,Active
+359,50012,,2012,,,,Primary Metals, ALCOA,,,Plant,Active
+360,50012,,2013,,,,Primary Metals, ALCOA,,,Plant,Active
+361,50020,,1996,,,,Alcoa Centers, ALCOA,,,Plant,Active
+362,50020,,1997,,,,Alcoa Centers, ALCOA,,,Plant,Active
+363,50020,,1998,,,,Alcoa Centers, ALCOA,,,Plant,Active
+364,50020,,1999,,,,Alcoa Centers, ALCOA,,,Plant,Active
+365,50020,,2000,,,,Alcoa Centers, ALCOA,,,Plant,Active
+366,50020,,2001,,,,Alcoa Centers, ALCOA,,,Plant,Active
+367,50020,,2002,,,,Alcoa Centers, ALCOA,,,Plant,Active
+368,50020,,2003,,,,Alcoa Centers, ALCOA,,,Plant,Active
+369,50020,,2004,,,,Alcoa Centers, ALCOA,,,Plant,Active
+370,50020,,2005,,,,Alcoa Centers, ALCOA,,,Plant,Active
+371,50020,,2006,,,,Alcoa Centers, ALCOA,,,Plant,Active
+372,50020,,2007,,,,Alcoa Centers, ALCOA,,,Plant,Active
+373,50020,,2008,,,,Alcoa Centers, ALCOA,,,Plant,Active
+374,50020,,2009,,,,Alcoa Centers, ALCOA,,,Plant,Active
+375,50020,,2010,,,,Alcoa Centers, ALCOA,,,Plant,Active
+376,50020,,2011,,,,Alcoa Centers, ALCOA,,,Plant,Active
+377,50020,,2012,,,,Alcoa Centers, ALCOA,,,Plant,Active
+378,50020,,2013,,,,Alcoa Centers, ALCOA,,,Plant,Active
+379,50027,,1996,,,,Primary Metals, ALCOA,,,Plant,Active
+380,50027,,1997,,,,Primary Metals, ALCOA,,,Plant,Active
+381,50027,,1998,,,,Primary Metals, ALCOA,,,Plant,Active
+382,50027,,1999,,,,Primary Metals, ALCOA,,,Plant,Active
+383,50027,,2000,,,,Primary Metals, ALCOA,,,Plant,Active
+384,50027,,2001,,,,Primary Metals, ALCOA,,,Plant,Active
+385,50027,,2002,,,,Primary Metals, ALCOA,,,Plant,Active
+386,50027,,2003,,,,Primary Metals, ALCOA,,,Plant,Active
+387,50027,,2004,,,,Primary Metals, ALCOA,,,Plant,Active
+388,50027,,2005,,,,Primary Metals, ALCOA,,,Plant,Active
+389,50027,,2006,,,,Primary Metals, ALCOA,,,Plant,Active
+390,50027,,2007,,,,Primary Metals, ALCOA,,,Plant,Active
+391,50027,,2008,,,,Primary Metals, ALCOA,,,Plant,Active
+392,50027,,2009,,,,Primary Metals, ALCOA,,,Plant,Active
+393,50027,,2010,,,,Primary Metals, ALCOA,,,Plant,Active
+394,50027,,2011,,,,Primary Metals, ALCOA,,,Plant,Active
+395,50027,,2012,,,,Primary Metals, ALCOA,,,Plant,Active
+396,50027,,2013,,,,Primary Metals, ALCOA,,,Plant,Active
+397,50074,,1996,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+398,50074,,1997,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+399,50074,,1998,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+400,50074,,1999,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+401,50074,,2000,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+402,50074,,2001,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+403,50074,,2002,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+404,50074,,2003,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+405,50074,,2004,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+406,50074,,2005,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+407,50074,,2006,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+408,50074,,2007,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+409,50074,,2008,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+410,50074,,2009,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+411,50074,,2010,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+412,50074,,2011,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+413,50074,,2012,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+414,50074,,2013,,,,Alcoa Investment Cast and Forged Products, ALCOA,,,Plant,Active
+415,50095,,1996,,,,North American Rolled Products, ALCOA,,,Plant,Active
+416,50095,,1997,,,,North American Rolled Products, ALCOA,,,Plant,Active
+417,50095,,1998,,,,North American Rolled Products, ALCOA,,,Plant,Active
+418,50095,,1999,,,,North American Rolled Products, ALCOA,,,Plant,Active
+419,50095,,2000,,,,North American Rolled Products, ALCOA,,,Plant,Active
+420,50095,,2001,,,,North American Rolled Products, ALCOA,,,Plant,Active
+421,50095,,2002,,,,North American Rolled Products, ALCOA,,,Plant,Active
+422,50095,,2003,,,,North American Rolled Products, ALCOA,,,Plant,Active
+423,50095,,2004,,,,North American Rolled Products, ALCOA,,,Plant,Active
+424,50095,,2005,,,,North American Rolled Products, ALCOA,,,Plant,Active
+425,50095,,2006,,,,North American Rolled Products, ALCOA,,,Plant,Active
+426,50095,,2007,,,,North American Rolled Products, ALCOA,,,Plant,Active
+427,50095,,2008,,,,North American Rolled Products, ALCOA,,,Plant,Active
+428,50095,,2009,,,,North American Rolled Products, ALCOA,,,Plant,Active
+429,50095,,2010,,,,North American Rolled Products, ALCOA,,,Plant,Active
+430,50095,,2011,,,,North American Rolled Products, ALCOA,,,Plant,Active
+431,50095,,2012,,,,North American Rolled Products, ALCOA,,,Plant,Active
+432,50095,,2013,,,,North American Rolled Products, ALCOA,,,Plant,Active
+433,50196,,1996,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+434,50196,,1997,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+435,50196,,1998,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+436,50196,,1999,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+437,50196,,2000,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+438,50196,,2001,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+439,50196,,2002,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+440,50196,,2003,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+441,50196,,2004,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+442,50196,,2005,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+443,50196,,2006,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+444,50196,,2007,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+445,50196,,2008,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+446,50196,,2009,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+447,50196,,2010,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+448,50196,,2011,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+449,50196,,2012,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+450,50196,,2013,,,,Global Hard Alloy Extrusions, ALCOA,,,Plant,Active
+451,50228,,1996,,,,Primary Metals, ALCOA,,,Plant,Active
+452,50228,,1997,,,,Primary Metals, ALCOA,,,Plant,Active
+453,50228,,1998,,,,Primary Metals, ALCOA,,,Plant,Active
+454,50228,,1999,,,,Primary Metals, ALCOA,,,Plant,Active
+455,50228,,2000,,,,Primary Metals, ALCOA,,,Plant,Active
+456,50228,,2001,,,,Primary Metals, ALCOA,,,Plant,Active
+457,50228,,2002,,,,Primary Metals, ALCOA,,,Plant,Active
+458,50228,,2003,,,,Primary Metals, ALCOA,,,Plant,Active
+459,50228,,2004,,,,Primary Metals, ALCOA,,,Plant,Active
+460,50228,,2005,,,,Primary Metals, ALCOA,,,Plant,Active
+461,50228,,2006,,,,Primary Metals, ALCOA,,,Plant,Active
+462,50228,,2007,,,,Primary Metals, ALCOA,,,Plant,Active
+463,50228,,2008,,,,Primary Metals, ALCOA,,,Plant,Active
+464,50228,,2009,,,,Primary Metals, ALCOA,,,Plant,Active
+465,50228,,2010,,,,Primary Metals, ALCOA,,,Plant,Active
+466,50228,,2011,,,,Primary Metals, ALCOA,,,Plant,Active
+467,50228,,2012,,,,Primary Metals, ALCOA,,,Plant,Active
+468,50228,,2013,,,,Primary Metals, ALCOA,,,Plant,Active
+469,50288,,1996,,,,Alcoa Centers, ALCOA,,,Plant,Active
+470,50288,,1997,,,,Alcoa Centers, ALCOA,,,Plant,Active
+471,50288,,1998,,,,Alcoa Centers, ALCOA,,,Plant,Active
+472,50288,,1999,,,,Alcoa Centers, ALCOA,,,Plant,Active
+473,50288,,2000,,,,Alcoa Centers, ALCOA,,,Plant,Active
+474,50288,,2001,,,,Alcoa Centers, ALCOA,,,Plant,Active
+475,50288,,2002,,,,Alcoa Centers, ALCOA,,,Plant,Active
+476,50288,,2003,,,,Alcoa Centers, ALCOA,,,Plant,Active
+477,50288,,2004,,,,Alcoa Centers, ALCOA,,,Plant,Active
+478,50288,,2005,,,,Alcoa Centers, ALCOA,,,Plant,Active
+479,50288,,2006,,,,Alcoa Centers, ALCOA,,,Plant,Active
+480,50288,,2007,,,,Alcoa Centers, ALCOA,,,Plant,Active
+481,50288,,2008,,,,Alcoa Centers, ALCOA,,,Plant,Active
+482,50288,,2009,,,,Alcoa Centers, ALCOA,,,Plant,Active
+483,50288,,2010,,,,Alcoa Centers, ALCOA,,,Plant,Active
+484,50288,,2011,,,,Alcoa Centers, ALCOA,,,Plant,Active
+485,50288,,2012,,,,Alcoa Centers, ALCOA,,,Plant,Active
+486,50288,,2013,,,,Alcoa Centers, ALCOA,,,Plant,Active
+487,50298,,1996,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+488,50298,,1997,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+489,50298,,1998,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+490,50298,,1999,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+491,50298,,2000,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+492,50298,,2001,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+493,50298,,2002,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+494,50298,,2003,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+495,50298,,2004,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+496,50298,,2005,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+497,50298,,2006,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+498,50298,,2007,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+499,50298,,2008,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+500,50298,,2009,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+501,50298,,2010,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+502,50298,,2011,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+503,50298,,2012,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+504,50298,,2013,,,,Alcoa World Alumina Atlantic, ALCOA,,,Plant,Active
+505,50410,,1996,,,,Primary Metals, ALCOA,,,Plant,Active
+506,50410,,1997,,,,Primary Metals, ALCOA,,,Plant,Active
+507,50410,,1998,,,,Primary Metals, ALCOA,,,Plant,Active
+508,50410,,1999,,,,Primary Metals, ALCOA,,,Plant,Active
+509,50410,,2000,,,,Primary Metals, ALCOA,,,Plant,Active
+510,50410,,2001,,,,Primary Metals, ALCOA,,,Plant,Active
+511,50410,,2002,,,,Primary Metals, ALCOA,,,Plant,Active
+512,50410,,2003,,,,Primary Metals, ALCOA,,,Plant,Active
+513,50410,,2004,,,,Primary Metals, ALCOA,,,Plant,Active
+514,50410,,2005,,,,Primary Metals, ALCOA,,,Plant,Active
+515,50410,,2006,,,,Primary Metals, ALCOA,,,Plant,Active
+516,50410,,2007,,,,Primary Metals, ALCOA,,,Plant,Active
+517,50410,,2008,,,,Primary Metals, ALCOA,,,Plant,Active
+518,50410,,2009,,,,Primary Metals, ALCOA,,,Plant,Active
+519,50410,,2010,,,,Primary Metals, ALCOA,,,Plant,Active
+520,50410,,2011,,,,Primary Metals, ALCOA,,,Plant,Active
+521,50410,,2012,,,,Primary Metals, ALCOA,,,Plant,Active
+522,50410,,2013,,,,Primary Metals, ALCOA,,,Plant,Active
+523,50415,,1996,,,,Primary Metals, ALCOA,,,Plant,Active
+524,50415,,1997,,,,Primary Metals, ALCOA,,,Plant,Active
+525,50415,,1998,,,,Primary Metals, ALCOA,,,Plant,Active
+526,50415,,1999,,,,Primary Metals, ALCOA,,,Plant,Active
+527,50415,,2000,,,,Primary Metals, ALCOA,,,Plant,Active
+528,50415,,2001,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+529,50415,,2002,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+530,50415,,2003,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+531,50415,,2004,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+532,50415,,2005,,,,Primary Metals, ALCOA,,,Plant,Active
+533,50415,,2006,,,,Primary Metals, ALCOA,,,Plant,Active
+534,50415,,2007,,,,Primary Metals, ALCOA,,,Plant,Active
+535,50415,,2008,,,,Primary Metals, ALCOA,,,Plant,Active
+536,50415,,2009,,,,Primary Metals, ALCOA,,,Plant,Active
+537,50415,,2010,,,,Primary Metals, ALCOA,,,Plant,Active
+538,50415,,2011,,,,Primary Metals, ALCOA,,,Plant,Active
+539,50415,,2012,,,,Primary Metals, ALCOA,,,Plant,Active
+540,50415,,2013,,,,Primary Metals, ALCOA,,,Plant,Active
+541,50087,,1996,,,,Joint Venture, ALUMAX,,,Plant,Active
+542,50087,,1997,,,,Joint Venture, ALUMAX,,,Plant,Active
+543,50087,,1998,,,,Joint Venture, ALCOA,,,Plant,Active
+544,50087,,1999,,,,Joint Venture, ALCOA,,,Plant,Active
+545,50087,,2000,,,,Joint Venture, ALCOA,,,Plant,Active
+546,50087,,2001,,,,Joint Venture, ALCOA,,,Plant,Active
+547,50087,,2002,,,,Joint Venture, ALCOA,,,Plant,Active
+548,50087,,2003,,,,Joint Venture, ALCOA,,,Plant,Active
+549,50087,,2004,,,,Joint Venture, ALCOA,,,Plant,Active
+550,50087,,2005,,,,Joint Venture, ALCOA,,,Plant,Active
+551,50087,,2006,,,,Joint Venture, ALCOA,,,Plant,Active
+552,50087,,2007,,,,Joint Venture, ALCOA,,,Plant,Active
+553,50087,,2008,,,,Joint Venture, ALCOA,,,Plant,Active
+554,50087,,2009,,,,Joint Venture, SAPA,,,Plant,Active
+555,50087,,2010,,,,Joint Venture, SAPA,,,Plant,Active
+556,50087,,2011,,,,Joint Venture, SAPA,,,Plant,Active
+557,50087,,2012,,,,Joint Venture, SAPA,,,Plant,Active
+558,50087,,2013,,,,Joint Venture, SAPA,,,Plant,Active
+559,50236,,1996,,,,Alcoa Custom Extruded Solution, ALUMAX,,,Plant,Active
+560,50236,,1997,,,,Alcoa Custom Extruded Solution, ALUMAX,,,Plant,Active
+561,50236,,1998,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+562,50236,,1999,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+563,50236,,2000,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+564,50236,,2001,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+565,50236,,2002,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+566,50236,,2003,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+567,50236,,2004,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+568,50236,,2005,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+569,50236,,2006,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+570,50236,,2007,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+571,50236,,2008,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+572,50236,,2009,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+573,50236,,2010,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+574,50236,,2011,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+575,50236,,2012,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+576,50236,,2013,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+577,50251,,1996,,,,Joint Venture, ALUMAX,,,Plant,Active
+578,50251,,1997,,,,Joint Venture, ALUMAX,,,Plant,Active
+579,50251,,1998,,,,Joint Venture, ALCOA,,,Plant,Active
+580,50251,,1999,,,,Joint Venture, ALCOA,,,Plant,Active
+581,50251,,2000,,,,Joint Venture, ALCOA,,,Plant,Active
+582,50251,,2001,,,,Joint Venture, ALCOA,,,Plant,Active
+583,50251,,2002,,,,Joint Venture, ALCOA,,,Plant,Active
+584,50251,,2003,,,,Joint Venture, ALCOA,,,Plant,Active
+585,50251,,2004,,,,Joint Venture, ALCOA,,,Plant,Active
+586,50251,,2005,,,,Joint Venture, ALCOA,,,Plant,Active
+587,50251,,2006,,,,Joint Venture, ALCOA,,,Plant,Active
+588,50251,,2007,,,,Joint Venture, ALCOA,,,Plant,Active
+589,50251,,2008,,,,Joint Venture, ALCOA,,,Plant,Active
+590,50251,,2009,,,,Joint Venture, SAPA,,,Plant,Active
+591,50251,,2010,,,,Joint Venture, SAPA,,,Plant,Active
+592,50251,,2011,,,,Joint Venture, SAPA,,,Plant,Active
+593,50251,,2012,,,,Joint Venture, SAPA,,,Plant,Active
+594,50251,,2013,,,,Joint Venture, SAPA,,,Plant,Active
+595,50433,,1996,,,,Alcoa Custom Extruded Solution, ALUMAX,,,Plant,Active
+596,50433,,1997,,,,Alcoa Custom Extruded Solution, ALUMAX,,,Plant,Active
+597,50433,,1998,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+598,50433,,1999,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+599,50433,,2000,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+600,50433,,2001,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+601,50433,,2002,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+602,50433,,2003,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+603,50433,,2004,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+604,50433,,2005,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+605,50433,,2006,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+606,50433,,2007,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+607,50433,,2008,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+608,50433,,2009,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+609,50433,,2010,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+610,50433,,2011,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+611,50433,,2012,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+612,50433,,2013,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+613,50098,,1996,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+614,50098,,1997,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+615,50098,,1998,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+616,50098,,1999,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+617,50098,,2000,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+618,50098,,2001,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+619,50098,,2002,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+620,50098,,2003,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+621,50098,,2004,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+622,50098,,2005,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+623,50098,,2006,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+624,50098,,2007,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+625,50098,,2008,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+626,50098,,2009,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+627,50098,,2010,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+628,50098,,2011,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+629,50098,,2012,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+630,50098,,2013,,,,Alcoa Custom Extruded Solution, SAPA,,,Plant,Active
+631,50257,,1996,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+632,50257,,1997,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+633,50257,,1998,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+634,50257,,1999,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+635,50257,,2000,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+636,50257,,2001,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+637,50257,,2002,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+638,50257,,2003,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+639,50257,,2004,,,,AFL Automotive, ALCOA/ Fujikura Joint,,,Plant,Active
+640,50257,,2005,,,,AFL Automotive, ALCOA,,,Plant,Active
+641,50257,,2006,,,,AFL Automotive, ALCOA,,,Plant,Active
+642,50257,,2007,,,,AFL Automotive, ALCOA,,,Plant,Active
+643,50257,,2008,,,,AFL Automotive, ALCOA,,,Plant,Active
+644,50257,,2009,,,,AFL Automotive,AEES divesature/Platinum Equity,,,Plant,Active
+645,50257,,2010,,,,AFL Automotive,AEES divesature/Platinum Equity,,,Plant,Active
+646,50257,,2011,,,,AFL Automotive,AEES divesature/Platinum Equity,,,Plant,Active
+647,50257,,2012,,,,AFL Automotive,AEES divesature/Platinum Equity,,,Plant,Active
+648,50257,,2013,,,,AFL Automotive,AEES divesature/Platinum Equity,,,Plant,Active
+649,50134,,1996,,,,Primary Metals, ALUMAX,,,Plant,Active
+650,50134,,1997,,,,Primary Metals, ALUMAX,,,Plant,Active
+651,50134,,1998,,,,Primary Metals, ALCOA,,,Plant,Active
+652,50134,,1999,,,,Primary Metals, ALCOA,,,Plant,Active
+653,50134,,2000,,,,Primary Metals, ALCOA,,,Plant,Active
+654,50134,,2001,,,,Primary Metals, ALCOA,,,Plant,Active
+655,50134,,2002,,,,Primary Metals, ALCOA,,,Plant,Active
+656,50134,,2003,,,,Primary Metals, ALCOA,,,Plant,Active
+657,50134,,2004,,,,Primary Metals, ALCOA,,,Plant,Active
+658,50134,,2005,,,,Primary Metals, ALCOA,,,Plant,Active
+659,50134,,2006,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+660,50134,,2007,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+661,50134,,2008,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+662,50134,,2009,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+663,50134,,2010,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+664,50134,,2011,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+665,50134,,2012,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+666,50134,,2013,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+667,50400,,1996,,,,North American Rolled Products, ALUMAX,,,Plant,Active
+668,50400,,1997,,,,North American Rolled Products, ALUMAX,,,Plant,Active
+669,50400,,1998,,,,North American Rolled Products, ALCOA,,,Plant,Active
+670,50400,,1999,,,,North American Rolled Products, ALCOA,,,Plant,Active
+671,50400,,2000,,,,North American Rolled Products, ALCOA,,,Plant,Active
+672,50400,,2001,,,,North American Rolled Products, ALCOA,,,Plant,Active
+673,50400,,2002,,,,North American Rolled Products, ALCOA,,,Plant,Active
+674,50400,,2003,,,,North American Rolled Products, ALCOA,,,Plant,Active
+675,50400,,2004,,,,North American Rolled Products, ALCOA,,,Plant,Active
+676,50400,,2005,,,,North American Rolled Products, ALCOA,,,Plant,Active
+677,50400,,2006,,,,North American Rolled Products, ALCOA,,,Plant,Active
+678,50400,,2007,,,,North American Rolled Products, ALCOA,,,Plant,Active
+679,50400,,2008,,,,North American Rolled Products, ALCOA,,,Plant,Active
+680,50400,,2009,,,,North American Rolled Products, ALCOA,,,Plant,Curtailment
+681,50400,,2010,,,,North American Rolled Products, ALCOA,,,Plant,Curtailment
+682,50400,,2011,,,,North American Rolled Products, ALCOA,,,Plant,Curtailment
+683,50400,,2012,,,,North American Rolled Products, ALCOA,,,Plant,Curtailment
+684,50400,,2013,,,,North American Rolled Products, ALCOA,,,Plant,Curtailment
+685,50255,,1996,,,,Primary Metals,Reynolds ,,,Plant,Active
+686,50255,,1997,,,,Primary Metals,Reynolds ,,,Plant,Active
+687,50255,,1998,,,,Primary Metals,Reynolds ,,,Plant,Active
+688,50255,,1999,,,,Primary Metals,Reynolds ,,,Plant,Active
+689,50255,,2000,,,,Primary Metals,Reynolds ,,,Plant,Active
+690,50255,,2001,,,,Primary Metals, ALCOA,,,Plant,Active
+691,50255,,2002,,,,Primary Metals, ALCOA,,,Plant,Active
+692,50255,,2003,,,,Primary Metals, ALCOA,,,Plant,Active
+693,50255,,2004,,,,Primary Metals, ALCOA,,,Plant,Active
+694,50255,,2005,,,,Primary Metals, ALCOA,,,Plant,Active
+695,50255,,2006,,,,Primary Metals, ALCOA,,,Plant,Active
+696,50255,,2007,,,,Primary Metals, ALCOA,,,Plant,Active
+697,50255,,2008,,,,Primary Metals, ALCOA,,,Plant,Active
+698,50255,,2009,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+699,50255,,2010,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+700,50255,,2011,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+701,50255,,2012,,,,Primary Metals, ALCOA,,,Plant,Active
+702,50255,,2013,,,,Primary Metals, ALCOA,,,Plant,Active
+703,50320,,1996,,,,Primary Metals, ALCOA,,,Plant,Active
+704,50320,,1997,,,,Primary Metals, ALCOA,,,Plant,Active
+705,50320,,1998,,,,Primary Metals, ALCOA,,,Plant,Active
+706,50320,,1999,,,,Primary Metals, ALCOA,,,Plant,Active
+707,50320,,2000,,,,Primary Metals, ALCOA,,,Plant,Active
+708,50320,,2001,,,,Primary Metals, ALCOA,,,Plant,Active
+709,50320,,2002,,,,Primary Metals, ALCOA,,,Plant,Active
+710,50320,,2003,,,,Primary Metals, ALCOA,,,Plant,Active
+711,50320,,2004,,,,Primary Metals, ALCOA,,,Plant,Active
+712,50320,,2005,,,,Primary Metals, ALCOA,,,Plant,Active
+713,50320,,2006,,,,Primary Metals, ALCOA,,,Plant,Active
+714,50320,,2007,,,,Primary Metals, ALCOA,,,Plant,Active
+715,50320,,2008,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+716,50320,,2009,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+717,50320,,2010,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+718,50320,,2011,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+719,50320,,2012,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+720,50320,,2013,,,,Primary Metals, ALCOA,,,Plant,Curtailment
+721,50389,,1996,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+722,50389,,1997,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+723,50389,,1998,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+724,50389,,1999,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+725,50389,,2000,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+726,50389,,2001,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+727,50389,,2002,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+728,50389,,2003,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+729,50389,,2004,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+730,50389,,2005,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+731,50389,,2006,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+732,50389,,2007,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Active
+733,50389,,2008,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Curtailment
+734,50389,,2009,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Curtailment
+735,50389,,2010,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Curtailment
+736,50389,,2011,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Curtailment
+737,50389,,2012,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Curtailment
+738,50389,,2013,,,,Alcoa Custom Extruded Solution, ALCOA,,,Plant,Curtailment
+739,50166,,1996,,,,Building and Construction Systems, ALUMAX,,,Plant,Active
+740,50166,,1997,,,,Building and Construction Systems, ALUMAX,,,Plant,Active
+741,50166,,1998,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+742,50166,,1999,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+743,50166,,2000,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+744,50166,,2001,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+745,50166,,2002,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+746,50166,,2003,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+747,50166,,2004,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+748,50166,,2005,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+749,50166,,2006,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+750,50166,,2007,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+751,50166,,2008,,,,Building and Construction Systems, ALCOA,,,Plant,Active
+752,50166,,2009,,,,Building and Construction Systems, ALCOA,,,Plant,Closed
+753,50166,,2010,,,,Building and Construction Systems, ALCOA,,,Plant,Closed
+754,50166,,2011,,,,Building and Construction Systems, ALCOA,,,Plant,Closed
+755,50166,,2012,,,,Building and Construction Systems, ALCOA,,,Plant,Closed
+756,50166,,2013,,,,Building and Construction Systems, ALCOA,,,Plant,Closed
