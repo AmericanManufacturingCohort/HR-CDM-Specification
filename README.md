@@ -1,8 +1,10 @@
+# AMC HR-CDM Specification
+
 This repository houses the main source of the AMC HR-CDM Specification document and we welcome public participations to contribute to the development of the specification.
 
 The document is accessible as a wiki page at [https://github.com/AmericanManufacturingCohort/HR-CDM-Specification/wiki](https://github.com/AmericanManufacturingCohort/HR-CDM-Specification/wiki)
 
-# Contributing to the AMC HR-CDM Specification Document
+## Contributing to the AMC HR-CDM Specification Document
 
 Using the Github resource management system, you can propose a file change to the source document and we will integrate the changes if they are relevant and useful. The guide below gives you a step-by-step instruction on how to contribute to the development of the AMC HR-CDM specification document.
 
@@ -31,4 +33,4 @@ The next step will be on our side, such that, we will review the proposed change
 # Release Notes
 
 * **v1.0**
- - Rename a variable `employment_status_concept_id` to `work_state` in the EMPLOYMENT_RECORD table. The value is no longer a coded status id but instead a string label value is used to describe the working state, e.g., "Work", "STD", "Terminate", and so on.
+  - Rename a variable `employment_status_concept_id` to `work_state` in the EMPLOYMENT_RECORD table. The value is no longer a coded status id but instead a string label value is used to describe the working state, e.g., "Work", "STD", "Terminate", and so on.
